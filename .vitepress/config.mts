@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "帕克公園叔叔",
   description: "各種學習紀錄",
+  base: "/markdown-blog/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
