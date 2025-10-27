@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "帕克公園叔叔"
   text: "各種學習紀錄"
-  tagline: AI, Agents, Daily Life
+  tagline: AI, Agents, Daily Life, AI News
   actions:
     - theme: brand
       text: Markdown Examples
